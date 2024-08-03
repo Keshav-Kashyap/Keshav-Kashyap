@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **C++,Data Structure & Python**
 
-- 💬 Ask me about **C,C++**
+- 💬 Ask me about **C,C++,Web Development**
 
 - 📫 How to reach me **keshavkashyap9058@gmail.com**
 
