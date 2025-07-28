@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
 </div>
 
-<img align="right" alt="Developer working" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 ## 🚀 About Me
 
