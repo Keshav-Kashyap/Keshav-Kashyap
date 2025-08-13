@@ -77,7 +77,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-kashyap&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=keshav-kashyap&theme=radical&count_private=true&date_format=M%20j%5B%2C%20Y%5D&ring=DD2727&fire=DD2727&currStreakLabel=DD2727&rand=<?=Date.now()?>" alt="GitHub Streak" />
 </div>
 
 ## 🎯 What I Bring to Your Team
