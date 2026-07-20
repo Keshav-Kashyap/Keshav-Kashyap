@@ -143,7 +143,7 @@ I enjoy building complete software products from idea to deployment. My core wor
 <td width="50%" valign="top">
 
 <a href="qracloud.tech" target="_blank">
-  <img src="/images/qra.png" width="100%" alt="QRA AI Interview Platform"/>
+<img src="/images/qra.png" width="100%" alt="QRA AI Interview Platform"/>
 </a>
 
 ### 🤖 QRA — AI Interview Platform
