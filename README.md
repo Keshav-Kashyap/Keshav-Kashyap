@@ -136,13 +136,13 @@ I enjoy building complete software products from idea to deployment. My core wor
 
 ## 🚀 Featured Projects
 
-> 📌 **Note to self before publishing:** replace every `YOUR_LIVE_LINK`, `YOUR_GITHUB_LINK`, and thumbnail image URL below with the real ones. See the checklist at the end of this section.
+> 📌 **Note to self before publishing:** replace any remaining `YOUR_LIVE_LINK` / `YOUR_REPO_NAME` placeholders and thumbnail paths below with the real ones. See the checklist at the end of this section.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="qracloud.tech" target="_blank">
+<a href="https://qracloud.tech" target="_blank">
 <img src="/images/qra.png" width="100%" alt="QRA AI Interview Platform"/>
 </a>
 
@@ -152,26 +152,44 @@ An AI-powered mock interview platform that conducts real-time **voice-based inte
 **Stack:** Next.js · Node.js · FastAPI · Supabase · OpenAI · VAPI AI
 **Highlights:** AI-driven interviews · Voice interaction · Auth · Feedback dashboard
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_LIVE_LINK.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://qracloud.tech)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
 
 </td>
 <td width="50%" valign="top">
-<a href="https://surajprinting.netlify.app" target="_blank">
-<img src="/images/id_card2.png" width="100%"/>
+
+<a href="https://ezy-learn.app" target="_blank">
+<img src="/images/ezy.png" width="100%" alt="Easy Learn Platform"/>
 </a>
+
+### 🎓 Easy Learn Platform
+A full-featured online learning platform with dedicated dashboards for students and admins, built for course delivery and progress tracking.
+
+**Stack:** React · Node.js · MongoDB
+**Highlights:** Course platform · Student dashboard · Admin panel · Authentication
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://ezy-learn.app)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://surajprinting.netlify.app" target="_blank">
+<img src="/images/id_card2.png" width="100%" alt="Digital ID Card Management System"/>
+</a>
+
 ### 🪪 Digital ID Card Management System
 A complete system for institutions to manage student records and generate digital ID cards in bulk, with image handling and an admin control panel.
 
 **Stack:** React · Node.js · MongoDB · Cloudinary · EmailJS
 **Highlights:** Student management · Bulk ID export · Image upload · Admin dashboard
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_LIVE_LINK.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://surajprinting.netlify.app)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <img src="https://placehold.co/600x320/0D1117/00D4AA?text=Creator+OS+Dashboard" width="100%"/>
@@ -186,47 +204,35 @@ A CRM-style dashboard built for creators and small teams, with automated PDF gen
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
 
 </td>
-<td width="50%" valign="top">
-
-<img src="https://placehold.co/600x320/0D1117/00D4AA?text=Resume+Skill+Extractor" width="100%"/>
-
-### 📄 Resume Skill Extractor
-An NLP-based tool that parses resumes to automatically detect skills and extract key terms — built to speed up candidate screening.
-
-**Stack:** FastAPI · spaCy · Python
-**Highlights:** Resume parsing · Skill detection · Keyword extraction
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_LIVE_LINK.com)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="ezy-learn.app" target="_blank">
-<img src="images/ezy.png" width="100%"/>
-</a>
-### 🎓 Easy Learn Platform
-A full-featured online learning platform with dedicated dashboards for students and admins, built for course delivery and progress tracking.
 
-**Stack:** React · Node.js · MongoDB
-**Highlights:** Course platform · Student dashboard · Admin panel · Authentication
+<img src="https://placehold.co/600x320/0D1117/00D4AA?text=Video+Editing+App" width="100%"/>
+
+### 🎬 Video Editing App
+A browser-based video editing tool built with **React.js** and its ecosystem of media/canvas libraries on the frontend, with a **Node.js** backend handling processing and file operations — letting users trim, arrange, and export video clips directly from the browser.
+
+**Stack:** React.js · React libraries (media/canvas) · Node.js
+**Highlights:** In-browser video editing · Clip trimming & arrangement · Export pipeline handled via Node.js backend
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_LIVE_LINK.com)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
 
 </td>
 <td width="50%" valign="top">
+
 <a href="https://tokingallvez.netlify.app" target="_blank">
-<img src="images/talking.png" width="100%"/>
+<img src="/images/talking.png" width="100%" alt="Talking Always Video Meeting Platform"/>
 </a>
+
 ### 🎥 Talking Always — Video Meeting Platform
 A real-time video meeting application supporting live meeting rooms and seamless peer-to-peer communication.
 
 **Stack:** React · Node.js · Socket.io · WebRTC
 **Highlights:** Video calling · Meeting rooms · Real-time communication
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_LIVE_LINK.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://tokingallvez.netlify.app)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
 
 </td>
@@ -234,16 +240,14 @@ A real-time video meeting application supporting live meeting rooms and seamless
 </table>
 
 <details>
-<summary><b>✅ Checklist — fill these in before publishing (6 projects × 3 items each)</b></summary>
+<summary><b>✅ Checklist — a few placeholders still need your real values</b></summary>
 <br/>
 
-For **every project card above**, replace:
-
-| Placeholder | Replace with |
+| Project | Still needs |
 |---|---|
-| `https://placehold.co/...` thumbnail image | An actual screenshot/GIF of the project (upload it to your repo, e.g. `assets/qra-thumbnail.png`, then use that path or the raw GitHub URL) |
-| `https://YOUR_LIVE_LINK.com` | The deployed URL (Vercel/Netlify/Render link) |
-| `https://github.com/keshav-kashyap/YOUR_REPO_NAME` | The actual GitHub repository URL for that project |
+| QRA, Easy Learn, Digital ID Card, Talking Always | Just the GitHub repo link (`YOUR_REPO_NAME`) — live link & thumbnail already set |
+| Creator OS Dashboard | Thumbnail image + live link + GitHub repo link |
+| Video Editing App | Thumbnail image + live link (if deployed) + GitHub repo link |
 
 If a project isn't deployed live, or the repo is private, just delete that one badge line instead of leaving a dead link.
 
