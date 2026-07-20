@@ -136,9 +136,13 @@ I enjoy building complete software products from idea to deployment. My core wor
 
 ## 🚀 Featured Projects
 
+> 📌 **Note to self before publishing:** replace every `YOUR_LIVE_LINK`, `YOUR_GITHUB_LINK`, and thumbnail image URL below with the real ones. See the checklist at the end of this section.
+
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<img src="https://placehold.co/600x320/0D1117/00D4AA?text=QRA+%E2%80%94+AI+Interview+Platform" width="100%"/>
 
 ### 🤖 QRA — AI Interview Platform
 An AI-powered mock interview platform that conducts real-time **voice-based interviews**, evaluates responses, and delivers structured feedback to help candidates prepare effectively.
@@ -146,8 +150,13 @@ An AI-powered mock interview platform that conducts real-time **voice-based inte
 **Stack:** Next.js · Node.js · FastAPI · Supabase · OpenAI · VAPI AI
 **Highlights:** AI-driven interviews · Voice interaction · Auth · Feedback dashboard
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_LIVE_LINK.com)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
+
 </td>
 <td width="50%" valign="top">
+
+<img src="https://placehold.co/600x320/0D1117/00D4AA?text=Digital+ID+Card+System" width="100%"/>
 
 ### 🪪 Digital ID Card Management System
 A complete system for institutions to manage student records and generate digital ID cards in bulk, with image handling and an admin control panel.
@@ -155,10 +164,15 @@ A complete system for institutions to manage student records and generate digita
 **Stack:** React · Node.js · MongoDB · Cloudinary · EmailJS
 **Highlights:** Student management · Bulk ID export · Image upload · Admin dashboard
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_LIVE_LINK.com)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<img src="https://placehold.co/600x320/0D1117/00D4AA?text=Creator+OS+Dashboard" width="100%"/>
 
 ### 📊 Creator OS Dashboard
 A CRM-style dashboard built for creators and small teams, with automated PDF generation and real-time workflow tracking.
@@ -166,8 +180,13 @@ A CRM-style dashboard built for creators and small teams, with automated PDF gen
 **Stack:** React · Flask · Python · MongoDB
 **Highlights:** CRM dashboard · PDF automation · Workflow management · Real-time data
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_LIVE_LINK.com)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
+
 </td>
 <td width="50%" valign="top">
+
+<img src="https://placehold.co/600x320/0D1117/00D4AA?text=Resume+Skill+Extractor" width="100%"/>
 
 ### 📄 Resume Skill Extractor
 An NLP-based tool that parses resumes to automatically detect skills and extract key terms — built to speed up candidate screening.
@@ -175,10 +194,15 @@ An NLP-based tool that parses resumes to automatically detect skills and extract
 **Stack:** FastAPI · spaCy · Python
 **Highlights:** Resume parsing · Skill detection · Keyword extraction
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_LIVE_LINK.com)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
+
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<img src="https://placehold.co/600x320/0D1117/00D4AA?text=Easy+Learn+Platform" width="100%"/>
 
 ### 🎓 Easy Learn Platform
 A full-featured online learning platform with dedicated dashboards for students and admins, built for course delivery and progress tracking.
@@ -186,8 +210,13 @@ A full-featured online learning platform with dedicated dashboards for students 
 **Stack:** React · Node.js · MongoDB
 **Highlights:** Course platform · Student dashboard · Admin panel · Authentication
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_LIVE_LINK.com)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
+
 </td>
 <td width="50%" valign="top">
+
+<img src="https://placehold.co/600x320/0D1117/00D4AA?text=Talking+Always" width="100%"/>
 
 ### 🎥 Talking Always — Video Meeting Platform
 A real-time video meeting application supporting live meeting rooms and seamless peer-to-peer communication.
@@ -195,9 +224,28 @@ A real-time video meeting application supporting live meeting rooms and seamless
 **Stack:** React · Node.js · Socket.io · WebRTC
 **Highlights:** Video calling · Meeting rooms · Real-time communication
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_LIVE_LINK.com)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
+
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>✅ Checklist — fill these in before publishing (6 projects × 3 items each)</b></summary>
+<br/>
+
+For **every project card above**, replace:
+
+| Placeholder | Replace with |
+|---|---|
+| `https://placehold.co/...` thumbnail image | An actual screenshot/GIF of the project (upload it to your repo, e.g. `assets/qra-thumbnail.png`, then use that path or the raw GitHub URL) |
+| `https://YOUR_LIVE_LINK.com` | The deployed URL (Vercel/Netlify/Render link) |
+| `https://github.com/keshav-kashyap/YOUR_REPO_NAME` | The actual GitHub repository URL for that project |
+
+If a project isn't deployed live, or the repo is private, just delete that one badge line instead of leaving a dead link.
+
+</details>
 
 <br/>
 
