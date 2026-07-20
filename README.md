@@ -142,7 +142,9 @@ I enjoy building complete software products from idea to deployment. My core wor
 <tr>
 <td width="50%" valign="top">
 
-<img src="/images/qra.png" width="100%"/>
+<a href="qracloud.tech" target="_blank">
+  <img src="/images/qra.png" width="100%" alt="QRA AI Interview Platform"/>
+</a>
 
 ### 🤖 QRA — AI Interview Platform
 An AI-powered mock interview platform that conducts real-time **voice-based interviews**, evaluates responses, and delivers structured feedback to help candidates prepare effectively.
@@ -155,9 +157,9 @@ An AI-powered mock interview platform that conducts real-time **voice-based inte
 
 </td>
 <td width="50%" valign="top">
-
+<a href="https://surajprinting.netlify.app" target="_blank">
 <img src="/images/id_card2.png" width="100%"/>
-
+</a>
 ### 🪪 Digital ID Card Management System
 A complete system for institutions to manage student records and generate digital ID cards in bulk, with image handling and an admin control panel.
 
@@ -201,9 +203,9 @@ An NLP-based tool that parses resumes to automatically detect skills and extract
 </tr>
 <tr>
 <td width="50%" valign="top">
-
+<a href="ezy-learn.app" target="_blank">
 <img src="images/ezy.png" width="100%"/>
-
+</a>
 ### 🎓 Easy Learn Platform
 A full-featured online learning platform with dedicated dashboards for students and admins, built for course delivery and progress tracking.
 
@@ -215,9 +217,9 @@ A full-featured online learning platform with dedicated dashboards for students 
 
 </td>
 <td width="50%" valign="top">
-
+<a href="https://tokingallvez.netlify.app" target="_blank">
 <img src="images/talking.png" width="100%"/>
-
+</a>
 ### 🎥 Talking Always — Video Meeting Platform
 A real-time video meeting application supporting live meeting rooms and seamless peer-to-peer communication.
 
