@@ -142,7 +142,7 @@ I enjoy building complete software products from idea to deployment. My core wor
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://placehold.co/600x320/0D1117/00D4AA?text=QRA+%E2%80%94+AI+Interview+Platform" width="100%"/>
+<img src="/images/qra.png" width="100%"/>
 
 ### 🤖 QRA — AI Interview Platform
 An AI-powered mock interview platform that conducts real-time **voice-based interviews**, evaluates responses, and delivers structured feedback to help candidates prepare effectively.
@@ -156,7 +156,7 @@ An AI-powered mock interview platform that conducts real-time **voice-based inte
 </td>
 <td width="50%" valign="top">
 
-<img src="https://placehold.co/600x320/0D1117/00D4AA?text=Digital+ID+Card+System" width="100%"/>
+<img src="/images/id_card2.png" width="100%"/>
 
 ### 🪪 Digital ID Card Management System
 A complete system for institutions to manage student records and generate digital ID cards in bulk, with image handling and an admin control panel.
@@ -202,7 +202,7 @@ An NLP-based tool that parses resumes to automatically detect skills and extract
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://placehold.co/600x320/0D1117/00D4AA?text=Easy+Learn+Platform" width="100%"/>
+<img src="images/ezy.png" width="100%"/>
 
 ### 🎓 Easy Learn Platform
 A full-featured online learning platform with dedicated dashboards for students and admins, built for course delivery and progress tracking.
@@ -216,7 +216,7 @@ A full-featured online learning platform with dedicated dashboards for students 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://placehold.co/600x320/0D1117/00D4AA?text=Talking+Always" width="100%"/>
+<img src="images/talking.png" width="100%"/>
 
 ### 🎥 Talking Always — Video Meeting Platform
 A real-time video meeting application supporting live meeting rooms and seamless peer-to-peer communication.
