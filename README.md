@@ -223,7 +223,7 @@ A browser-based video editing tool built with **React.js** and its ecosystem of 
 <td width="50%" valign="top">
 
 <a href="https://tokingallvez.netlify.app" target="_blank">
-<img src="/images/talking.png" width="100%" alt="Talking Always Video Meeting Platform"/>
+<img src="/images/taking.png" width="100%" alt="Talking Always Video Meeting Platform"/>
 </a>
 
 ### 🎥 Talking Always — Video Meeting Platform
