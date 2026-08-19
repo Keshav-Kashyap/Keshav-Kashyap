@@ -207,17 +207,19 @@ A CRM-style dashboard built for creators and small teams, with automated PDF gen
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://sers-full.onrender.com/" target="_blank">
+<img src="https://placehold.co/600x320/0D1117/00D4AA?text=SERS+AI+%7C+Safety+Emergency+Response+System" width="100%"/>
 
-<img src="https://placehold.co/600x320/0D1117/00D4AA?text=Video+Editing+App" width="100%"/>
+### 🚨 SERS AI — Safety Emergency Response System
 
-### 🎬 Video Editing App
-A browser-based video editing tool built with **React.js** and its ecosystem of media/canvas libraries on the frontend, with a **Node.js** backend handling processing and file operations — letting users trim, arrange, and export video clips directly from the browser.
+An AI-powered **accident prediction and safety emergency response system** built with **React.js** and **Machine Learning**, designed to analyze accident-related data and predict accident risk. The system uses a **Random Forest Classifier** with a React-based interface and interactive map visualization to present location-based safety insights.
 
-**Stack:** React.js · React libraries (media/canvas) · Node.js
-**Highlights:** In-browser video editing · Clip trimming & arrangement · Export pipeline handled via Node.js backend
+**Stack:** Python · Scikit-learn · Random Forest · React.js · React Map · REST API
+**Highlights:** Accident prediction · Random Forest ML model · Data preprocessing & encoding · Interactive map visualization · Risk analysis · React dashboard
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_LIVE_LINK.com)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square\&logo=vercel\&logoColor=black)](https://sers-full.onrender.com/)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/keshav-kashyap/Sers-Full)
+
 
 </td>
 <td width="50%" valign="top">
