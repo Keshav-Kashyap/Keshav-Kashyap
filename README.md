@@ -208,7 +208,7 @@ A CRM-style dashboard built for creators and small teams, with automated PDF gen
 <tr>
 <td width="50%" valign="top">
 <a href="https://sers-full.onrender.com/" target="_blank">
-<img src="https://placehold.co/600x320/0D1117/00D4AA?text=SERS+AI+%7C+Safety+Emergency+Response+System" width="100%"/>
+<img src="/images/taking.png" width="100%"/>
 
 ### 🚨 SERS AI — Safety Emergency Response System
 
