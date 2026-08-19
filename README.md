@@ -6,10 +6,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D4AA)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/keshav-kashyap)
-[![YouTube](https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/c/zenithcrew)
-[![Gmail](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:keshavkashyap9058@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D4AA)](https://portfolio-final-iota-five.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0077B5)]([https://linkedin.com/in/keshav-kashyap](https://www.linkedin.com/in/keshav-kashyap-660a23309))
+[![YouTube](https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FF0000)]([https://www.youtube.com/c/zenithcrew](https://www.youtube.com/@keshav_talk))
+[![Gmail](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kashyapkeshav934@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=keshav-kashyap&label=Profile%20Views&color=0f0f0f&style=for-the-badge" alt="Profile Views"/>
 
@@ -153,7 +153,7 @@ An AI-powered mock interview platform that conducts real-time **voice-based inte
 **Highlights:** AI-driven interviews · Voice interaction · Auth · Feedback dashboard
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://qracloud.tech)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Keshav-Kashyap/AiCruiter2)
 
 </td>
 <td width="50%" valign="top">
@@ -169,7 +169,7 @@ A full-featured online learning platform with dedicated dashboards for students 
 **Highlights:** Course platform · Student dashboard · Admin panel · Authentication
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://ezy-learn.app)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Keshav-Kashyap/EzyStudyNew)
 
 </td>
 </tr>
@@ -187,7 +187,7 @@ A complete system for institutions to manage student records and generate digita
 **Highlights:** Student management · Bulk ID export · Image upload · Admin dashboard
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://surajprinting.netlify.app)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/Student-Manager)
 
 </td>
 <td width="50%" valign="top">
@@ -201,7 +201,7 @@ A CRM-style dashboard built for creators and small teams, with automated PDF gen
 **Highlights:** CRM dashboard · PDF automation · Workflow management · Real-time data
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://YOUR_LIVE_LINK.com)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/CreatoOS)
 
 </td>
 </tr>
@@ -233,7 +233,7 @@ A real-time video meeting application supporting live meeting rooms and seamless
 **Highlights:** Video calling · Meeting rooms · Real-time communication
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://tokingallvez.netlify.app)
-[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/YOUR_REPO_NAME)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/keshav-kashyap/Toking-Allvez)
 
 </td>
 </tr>
