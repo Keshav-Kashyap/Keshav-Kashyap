@@ -7,8 +7,8 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D4AA)](https://portfolio-final-iota-five.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0077B5)]([https://linkedin.com/in/keshav-kashyap](https://www.linkedin.com/in/keshav-kashyap-660a23309))
-[![YouTube](https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FF0000)]([https://www.youtube.com/c/zenithcrew](https://www.youtube.com/@keshav_talk))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/keshav-kashyap-660a23309)
+[![YouTube](https://img.shields.io/badge/YouTube-0A0A0A?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@keshav_talk)
 [![Gmail](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:kashyapkeshav934@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=keshav-kashyap&label=Profile%20Views&color=0f0f0f&style=for-the-badge" alt="Profile Views"/>
