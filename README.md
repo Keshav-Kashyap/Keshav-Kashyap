@@ -142,7 +142,7 @@ I enjoy building complete software products from idea to deployment. My core wor
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://qracloud.tech" target="_blank">
+<a href="https://ai-cruiter2.vercel.app" target="_blank">
 <img src="/images/qra.png" width="100%" alt="QRA AI Interview Platform"/>
 </a>
 
