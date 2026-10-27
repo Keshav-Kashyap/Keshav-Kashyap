@@ -152,7 +152,7 @@ An AI-powered mock interview platform that conducts real-time **voice-based inte
 **Stack:** Next.js · Node.js · FastAPI · Supabase · OpenAI · VAPI AI
 **Highlights:** AI-driven interviews · Voice interaction · Auth · Feedback dashboard
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://qracloud.tech)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00D4AA?style=flat-square&logo=vercel&logoColor=black)](https://ai-cruiter2.vercel.app)
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Keshav-Kashyap/AiCruiter2)
 
 </td>
